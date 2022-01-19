@@ -1,0 +1,3 @@
+[submodule "react-libraries"]
+	path = react-libraries
+	url = https://github.com/hayleyBillingham/react-libraries.git
